@@ -1,4 +1,4 @@
-# Resenha-Crtica-ao-SCRUM-Sony
+# Resenha-Crítica-ao-SCRUM-Sony
 Resenha Crítica ao SCRUM - Sony.
 Case de Sucesso Sony
 
