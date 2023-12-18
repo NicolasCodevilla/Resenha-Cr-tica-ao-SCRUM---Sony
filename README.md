@@ -1,6 +1,6 @@
-# Resenha-Crítica-ao-SCRUM-Sony
-Resenha Crítica ao SCRUM - Sony.
-Case de Sucesso Sony
+# Resenha Crítica ao SCRUM
+
+Analisando projeto da Sony
 
 O caso de sucesso da Sony envolveu a colaboração com a SCT para desenvolver uma arquitetura de qualidade de vídeo GPU inovadora. A equipe de software da SCT trabalhou em estreita colaboração com parceiros japoneses e fornecedores de placas gráficas para pesquisar e implementar algoritmos avançados de melhoria de imagem em tempo real nos drivers de GPU.
 
